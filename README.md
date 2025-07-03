@@ -91,8 +91,7 @@ Several client scripts were implemented to enhance interactivity:
   ![image](https://github.com/user-attachments/assets/50076564-64c1-4407-baeb-45a2d8412021)
 
 
-3. **Disable Fields** – Prevents edits on specific fields in Student Progress Table  
-   ![Image 13: Disable Fields script](./screenshots/image13.png)
+3. **Disable Fields** – Prevents edits on specific fields in Student Progress Table 
 
 4. **Total Update** – Computes total marks 
 
